@@ -1,0 +1,9 @@
+# Temel kütüphaneler
+numpy==1.24.3
+opencv-python==4.8.0.76
+torch>=2.0.0  # CUDA desteği için
+torchvision>=0.15.0
+ultralytics>=8.0.0  # YOLO için
+supervision>=0.18.0  # Deteksiyon işlemleri için
+
+

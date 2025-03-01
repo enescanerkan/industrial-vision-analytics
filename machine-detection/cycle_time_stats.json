@@ -1,0 +1,89 @@
+{
+    "zone_statistics": {
+        "zone1": {
+            "min_time": 10.730990171432495,
+            "max_time": 11.786980628967285,
+            "avg_time": 11.25898540019989,
+            "total_objects": 2,
+            "current_objects": 0
+        },
+        "zone2": {
+            "min_time": 0.0670020580291748,
+            "max_time": 13.419546842575073,
+            "avg_time": 4.519843022028605,
+            "total_objects": 3,
+            "current_objects": 3
+        },
+        "zone3": {
+            "min_time": 0.3714780807495117,
+            "max_time": 22.572460889816284,
+            "avg_time": 14.815033674240112,
+            "total_objects": 3,
+            "current_objects": 0
+        }
+    },
+    "completed_cycles": {
+        "zone1": [
+            {
+                "track_id": 21,
+                "entry_time": "2025-02-28 17:32:19.513102",
+                "exit_time": "2025-02-28 17:32:31.300082",
+                "cycle_time": 11.786980628967285,
+                "cycle_time_formatted": "11.79 saniye"
+            },
+            {
+                "track_id": 65,
+                "entry_time": "2025-02-28 17:32:34.020452",
+                "exit_time": "2025-02-28 17:32:44.751442",
+                "cycle_time": 10.730990171432495,
+                "cycle_time_formatted": "10.73 saniye"
+            }
+        ],
+        "zone2": [
+            {
+                "track_id": 14,
+                "entry_time": "2025-02-28 17:32:19.513102",
+                "exit_time": "2025-02-28 17:32:32.932648",
+                "cycle_time": 13.419546842575073,
+                "cycle_time_formatted": "13.42 saniye"
+            },
+            {
+                "track_id": 49,
+                "entry_time": "2025-02-28 17:32:33.390688",
+                "exit_time": "2025-02-28 17:32:33.457690",
+                "cycle_time": 0.0670020580291748,
+                "cycle_time_formatted": "0.07 saniye"
+            },
+            {
+                "track_id": 49,
+                "entry_time": "2025-02-28 17:32:33.491032",
+                "exit_time": "2025-02-28 17:32:33.564013",
+                "cycle_time": 0.07298016548156738,
+                "cycle_time_formatted": "0.07 saniye"
+            }
+        ],
+        "zone3": [
+            {
+                "track_id": 1,
+                "entry_time": "2025-02-28 17:32:19.513102",
+                "exit_time": "2025-02-28 17:32:41.014264",
+                "cycle_time": 21.50116205215454,
+                "cycle_time_formatted": "21.50 saniye"
+            },
+            {
+                "track_id": 4,
+                "entry_time": "2025-02-28 17:32:58.105019",
+                "exit_time": "2025-02-28 17:32:58.476497",
+                "cycle_time": 0.3714780807495117,
+                "cycle_time_formatted": "0.37 saniye"
+            },
+            {
+                "track_id": 13,
+                "entry_time": "2025-02-28 17:32:42.599482",
+                "exit_time": "2025-02-28 17:33:05.171942",
+                "cycle_time": 22.572460889816284,
+                "cycle_time_formatted": "22.57 saniye"
+            }
+        ]
+    }
+}

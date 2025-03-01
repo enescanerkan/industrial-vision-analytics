@@ -1,0 +1,208 @@
+{
+    "zone_statistics": {
+        "zone1": {
+            "min_time": 0.17792391777038574,
+            "max_time": 10.951235055923462,
+            "avg_time": 3.12670726246304,
+            "total_objects": 9,
+            "current_objects": 1
+        },
+        "zone2": {
+            "min_time": 0.04079723358154297,
+            "max_time": 57.7810914516449,
+            "avg_time": 8.773418933153152,
+            "total_objects": 8,
+            "current_objects": 4
+        },
+        "zone3": {
+            "min_time": 0.045761823654174805,
+            "max_time": 18.977883338928223,
+            "avg_time": 6.194811046123505,
+            "total_objects": 8,
+            "current_objects": 0
+        }
+    },
+    "completed_cycles": {
+        "zone1": [
+            {
+                "track_id": 21,
+                "entry_time": "2025-02-28 17:39:30.381783",
+                "exit_time": "2025-02-28 17:39:38.258278",
+                "cycle_time": 7.876494884490967,
+                "cycle_time_formatted": "7.88 saniye"
+            },
+            {
+                "track_id": 65,
+                "entry_time": "2025-02-28 17:39:41.201819",
+                "exit_time": "2025-02-28 17:39:48.638165",
+                "cycle_time": 7.436346769332886,
+                "cycle_time_formatted": "7.44 saniye"
+            },
+            {
+                "track_id": 144,
+                "entry_time": "2025-02-28 17:40:07.647590",
+                "exit_time": "2025-02-28 17:40:07.843956",
+                "cycle_time": 0.1963660717010498,
+                "cycle_time_formatted": "0.20 saniye"
+            },
+            {
+                "track_id": 145,
+                "entry_time": "2025-02-28 17:40:07.867958",
+                "exit_time": "2025-02-28 17:40:18.819193",
+                "cycle_time": 10.951235055923462,
+                "cycle_time_formatted": "10.95 saniye"
+            },
+            {
+                "track_id": 175,
+                "entry_time": "2025-02-28 17:40:19.862522",
+                "exit_time": "2025-02-28 17:40:20.127264",
+                "cycle_time": 0.264742374420166,
+                "cycle_time_formatted": "0.26 saniye"
+            },
+            {
+                "track_id": 175,
+                "entry_time": "2025-02-28 17:40:20.395092",
+                "exit_time": "2025-02-28 17:40:20.596932",
+                "cycle_time": 0.20183992385864258,
+                "cycle_time_formatted": "0.20 saniye"
+            },
+            {
+                "track_id": 178,
+                "entry_time": "2025-02-28 17:40:22.491160",
+                "exit_time": "2025-02-28 17:40:23.044916",
+                "cycle_time": 0.5537559986114502,
+                "cycle_time_formatted": "0.55 saniye"
+            },
+            {
+                "track_id": 180,
+                "entry_time": "2025-02-28 17:40:23.065921",
+                "exit_time": "2025-02-28 17:40:23.547581",
+                "cycle_time": 0.4816603660583496,
+                "cycle_time_formatted": "0.48 saniye"
+            },
+            {
+                "track_id": 191,
+                "entry_time": "2025-02-28 17:40:27.375203",
+                "exit_time": "2025-02-28 17:40:27.553127",
+                "cycle_time": 0.17792391777038574,
+                "cycle_time_formatted": "0.18 saniye"
+            }
+        ],
+        "zone2": [
+            {
+                "track_id": 14,
+                "entry_time": "2025-02-28 17:39:30.381783",
+                "exit_time": "2025-02-28 17:39:40.522433",
+                "cycle_time": 10.140649795532227,
+                "cycle_time_formatted": "10.14 saniye"
+            },
+            {
+                "track_id": 49,
+                "entry_time": "2025-02-28 17:39:40.826971",
+                "exit_time": "2025-02-28 17:39:40.872567",
+                "cycle_time": 0.04559588432312012,
+                "cycle_time_formatted": "0.05 saniye"
+            },
+            {
+                "track_id": 49,
+                "entry_time": "2025-02-28 17:39:40.894037",
+                "exit_time": "2025-02-28 17:39:40.934834",
+                "cycle_time": 0.04079723358154297,
+                "cycle_time_formatted": "0.04 saniye"
+            },
+            {
+                "track_id": 30,
+                "entry_time": "2025-02-28 17:40:07.079525",
+                "exit_time": "2025-02-28 17:40:07.488947",
+                "cycle_time": 0.4094219207763672,
+                "cycle_time_formatted": "0.41 saniye"
+            },
+            {
+                "track_id": 19,
+                "entry_time": "2025-02-28 17:39:30.381783",
+                "exit_time": "2025-02-28 17:40:28.162874",
+                "cycle_time": 57.7810914516449,
+                "cycle_time_formatted": "57.78 saniye"
+            },
+            {
+                "track_id": 19,
+                "entry_time": "2025-02-28 17:40:28.228882",
+                "exit_time": "2025-02-28 17:40:28.375411",
+                "cycle_time": 0.1465294361114502,
+                "cycle_time_formatted": "0.15 saniye"
+            },
+            {
+                "track_id": 213,
+                "entry_time": "2025-02-28 17:40:32.097604",
+                "exit_time": "2025-02-28 17:40:32.731240",
+                "cycle_time": 0.6336355209350586,
+                "cycle_time_formatted": "0.63 saniye"
+            },
+            {
+                "track_id": 213,
+                "entry_time": "2025-02-28 17:40:32.777240",
+                "exit_time": "2025-02-28 17:40:33.766870",
+                "cycle_time": 0.9896302223205566,
+                "cycle_time_formatted": "0.99 saniye"
+            }
+        ],
+        "zone3": [
+            {
+                "track_id": 1,
+                "entry_time": "2025-02-28 17:39:30.381783",
+                "exit_time": "2025-02-28 17:39:45.372808",
+                "cycle_time": 14.991024494171143,
+                "cycle_time_formatted": "14.99 saniye"
+            },
+            {
+                "track_id": 4,
+                "entry_time": "2025-02-28 17:39:57.000171",
+                "exit_time": "2025-02-28 17:39:57.240481",
+                "cycle_time": 0.2403101921081543,
+                "cycle_time_formatted": "0.24 saniye"
+            },
+            {
+                "track_id": 13,
+                "entry_time": "2025-02-28 17:39:47.288805",
+                "exit_time": "2025-02-28 17:40:01.741464",
+                "cycle_time": 14.452659606933594,
+                "cycle_time_formatted": "14.45 saniye"
+            },
+            {
+                "track_id": 170,
+                "entry_time": "2025-02-28 17:40:17.110611",
+                "exit_time": "2025-02-28 17:40:17.397455",
+                "cycle_time": 0.28684401512145996,
+                "cycle_time_formatted": "0.29 saniye"
+            },
+            {
+                "track_id": 5,
+                "entry_time": "2025-02-28 17:40:04.923587",
+                "exit_time": "2025-02-28 17:40:23.901470",
+                "cycle_time": 18.977883338928223,
+                "cycle_time_formatted": "18.98 saniye"
+            },
+            {
+                "track_id": 9,
+                "entry_time": "2025-02-28 17:40:35.742083",
+                "exit_time": "2025-02-28 17:40:36.194690",
+                "cycle_time": 0.4526073932647705,
+                "cycle_time_formatted": "0.45 saniye"
+            },
+            {
+                "track_id": 9,
+                "entry_time": "2025-02-28 17:40:36.335102",
+                "exit_time": "2025-02-28 17:40:36.380864",
+                "cycle_time": 0.045761823654174805,
+                "cycle_time_formatted": "0.05 saniye"
+            },
+            {
+                "track_id": 9,
+                "entry_time": "2025-02-28 17:40:36.866506",
+                "exit_time": "2025-02-28 17:40:36.977903",
+                "cycle_time": 0.11139750480651855,
+                "cycle_time_formatted": "0.11 saniye"
+            }
+        ]
+    }
+}
