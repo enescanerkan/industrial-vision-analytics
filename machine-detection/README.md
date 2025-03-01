@@ -99,14 +99,4 @@ machine-detection/
 - Bölge tanımlamaları farklı video boyutları için otomatik olarak ölçeklendirilir
 - ByteTrack ile nesne takibi yapılarak daha tutarlı sayım sağlanır
 
-## 🤝 Katkıda Bulunma
 
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
-## 📄 Lisans
-
-Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
